@@ -7,7 +7,7 @@
 
 ## Descrição
 
-FrontEnd-Teste é um projeto desenvolvido utilizando **Vite**, **React**, **TypeScript** e **Styled Components**, com o objetivo de criar uma interface responsiva para o teste de uma vaga. O projeto utiliza outras bibliotecas como o **axios** para otimizar a experiência com o uso da api e a performance da aplicação.
+FrontEnd-Teste é um projeto desenvolvido utilizando **Vite**, **React**, **TypeScript** e **Styled Components**, com o objetivo de criar uma interface responsiva de um teste de vaga. O projeto utiliza outras bibliotecas como o **axios** para otimizar a experiência com o uso da api e a performance da aplicação.
 
 ## Tecnologias Utilizadas
 
